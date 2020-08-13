@@ -1,6 +1,6 @@
 <?php
 
-namespace Nullix\CryptoJsAes;
+namespace Rupendra\CryptoJsAes;
 
 /**
  * Encrypt/Decrypt data from Javascript's CryptoJS
