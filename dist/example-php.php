@@ -1,6 +1,6 @@
 <?php
 
-use Nullix\CryptoJsAes\CryptoJsAes;
+use Rupendra\CryptoJsAes\CryptoJsAes;
 
 require __DIR__ . "/../src/CryptoJsAes.php";
 
